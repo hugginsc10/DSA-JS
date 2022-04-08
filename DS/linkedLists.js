@@ -15,6 +15,8 @@ LINKED LISTS
 3(head) -> 1 -> 4 -> 2(tail)
 0          1    2    3
 
+get => o(i)T, o(1)S
+set => o(i)T, o(1)S
 
 
 
