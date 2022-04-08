@@ -1,6 +1,7 @@
 /*
-LINKED LISTS
+#LINKED LISTS
 
+## Singly-Linked List
 array has to shift every element to insert new value; 
 linked list is just inserted at constant time
 
@@ -26,6 +27,12 @@ Traverse => O(N)T, O(1)S
 
 insert => O(N)
 
+## Doubly-Linked List
+
+ 0 <- 3 <--> 1 <--> 4 <--> 2 -> 0
+ 
+node.next
+node.previous
 
 
 */
